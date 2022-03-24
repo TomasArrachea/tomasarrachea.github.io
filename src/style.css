@@ -328,18 +328,3 @@ pre {
 	overflow: hidden;
 	text-overflow: ellipsis
 }
-
-/*
-@media(prefers-color-scheme:dark) {
-	.Home_subtitle__3IlVB {
-		color: #ccc;
-		font-size: 12px;
-		margin: 5px 0
-	}
-	.Home_issue-container__3tREi .Home_issue-line__1uydt:hover {
-		background: #222
-	}
-	.Home_issue-container__3tREi .Home_issue-line__1uydt .Home_issue-snippet__2da0n {
-		color: #aaa
-	}
-}*/
